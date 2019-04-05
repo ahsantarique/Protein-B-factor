@@ -1,1 +1,4 @@
+src/catboost_info/*
 data_from_pdb/*
+*.npz
+*.npy

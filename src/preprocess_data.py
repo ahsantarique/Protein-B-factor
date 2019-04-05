@@ -31,7 +31,7 @@ other = 20
 input_path = sys.argv[1]
 output_path = sys.argv[2]
 
-MAX_FILE_COUNT = int(5e2)
+MAX_FILE_COUNT = int(1e9)
 PROGRESS_PERIOD = 10
 
 file_count = 0
